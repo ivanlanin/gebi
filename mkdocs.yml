@@ -3,13 +3,13 @@ theme: 'readthedocs'
 pages:
   - 'Beranda': 'index.md'
   - 'Wacana':
-    - 'Tinjauan': 'wacana/wacana.md'
+    - 'Tinjauan': 'wacana/index.md'
   - 'Paragraf':
-    - 'Tinjauan': 'paragraf/paragraf.md'
+    - 'Tinjauan': 'paragraf/index.md'
   - 'Kalimat':
-    - 'Tinjauan': 'kalimat/kalimat.md'
+    - 'Tinjauan': 'kalimat/index.md'
   - 'Kata':
-    - 'Tinjauan': 'kata/kata.md'
+    - 'Tinjauan': 'kata/index.md'
   - 'Ejaan':
-    - 'Tinjauan': 'ejaan/ejaan.md'
+    - 'Tinjauan': 'ejaan/index.md'
 
