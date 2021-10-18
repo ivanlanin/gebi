@@ -1,2 +1,3 @@
-# gebi
- Gramatika dan Ejaan Bahasa Indonesia
+# GEBI
+
+Gramatika dan Ejaan Bahasa Indonesia
