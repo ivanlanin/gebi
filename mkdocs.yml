@@ -1,15 +1,15 @@
-site_name: GEBI Daring
+site_name: GEBI
 theme: 'readthedocs'
 pages:
   - 'Beranda': 'index.md'
   - 'Wacana':
-    - 'Tinjauan': 'wacana/index.md'
+    - 'Tinjauan': 'wacana/wacana.md'
   - 'Paragraf':
-    - 'Tinjauan': 'paragraf/index.md'
+    - 'Tinjauan': 'paragraf/paragraf.md'
   - 'Kalimat':
-    - 'Tinjauan': 'kalimat/index.md'
+    - 'Tinjauan': 'kalimat/kalimat.md'
   - 'Kata':
-    - 'Tinjauan': 'kata/index.md'
+    - 'Tinjauan': 'kata/kata.md'
   - 'Ejaan':
-    - 'Tinjauan': 'ejaan/index.md'
+    - 'Tinjauan': 'ejaan/ejaan.md'
 
